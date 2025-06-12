@@ -1,7 +1,7 @@
 ---
 title: Google Analytics 연결하기
 date: 2021-04-29 00:28:00 +000
-categories: [GitHub, Blog]
+categories: [Etc, Blog]
 tags: [Blog]
 ---
 

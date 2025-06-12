@@ -1,7 +1,7 @@
 ---
 title: GitHub Blog 생성
 date: 2021-04-28 00:28:00 +000
-categories: [GitHub, Blog]
+categories: [Etc, Blog]
 tags: [Blog]
 ---
 
