@@ -18,4 +18,5 @@ tags: [Database, MongoDB]
 - 구분자 : `-`, `_`
 
 
-Ref. [MongoDB Docs](https://www.mongodb.com/ko-kr/docs/manual/reference/limits/#naming-warnings)
+Ref. 
+> [MongoDB Docs](https://www.mongodb.com/ko-kr/docs/manual/reference/limits/#naming-warnings)
